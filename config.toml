@@ -53,11 +53,7 @@ show_feed = true
 # For local files use same link format as in Markdown,
 # i.e "@/blog/_index.md".
 # See https://www.getzola.org/documentation/content/linking/#internal-links
-links = [
-  {url = "@/blog/_index.md", name = "Blog"},
-  {url = "@/demo/index.md", name = "Demo"},
-  {url = "https://sirrrslime.github.io/", name = "Repo"},
-]
+
 
 [extra.footer]
 # URL to the website without the https:// part, used for Johnvertisement leaderboard
