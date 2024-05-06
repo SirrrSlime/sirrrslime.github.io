@@ -1,5 +1,5 @@
-title = "Duckquill"
-base_url = "https://daudix.codeberg.page/duckquill"
+title = "Test"
+base_url = "https://sirrrslime.github.io/"
 description = "Modern, pretty, and clean theme."
 
 compile_sass = true
@@ -56,7 +56,7 @@ show_feed = true
 links = [
   {url = "@/blog/_index.md", name = "Blog"},
   {url = "@/demo/index.md", name = "Demo"},
-  {url = "https://codeberg.org/daudix/duckquill", name = "Repo"},
+  {url = "https://sirrrslime.github.io/", name = "Repo"},
 ]
 
 [extra.footer]
